@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vpssp.com</id>
+    <title>VPSSP</title>
+    <updated>2022-06-14T01:30:13.025Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vpssp.com"/>
+    <link rel="self" href="https://vpssp.com/atom.xml"/>
+    <subtitle>A Simple Document</subtitle>
+    <logo>https://vpssp.com/images/avatar.png</logo>
+    <icon>https://vpssp.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, VPSSP</rights>
+    <entry>
+        <title type="html"><![CDATA[Installation of Crystal Series Products.]]></title>
+        <id>https://vpssp.com/installation-of-crystal-series-products/</id>
+        <link href="https://vpssp.com/installation-of-crystal-series-products/">
+        </link>
+        <updated>2022-06-14T01:20:29.000Z</updated>
+    </entry>
+</feed>
