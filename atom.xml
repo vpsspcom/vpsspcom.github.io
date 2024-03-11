@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vpssp.com</id>
+    <title>VPSSP</title>
+    <updated>2024-03-11T13:17:53.749Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vpssp.com"/>
+    <link rel="self" href="https://vpssp.com/atom.xml"/>
+    <subtitle>Records Something </subtitle>
+    <logo>https://vpssp.com/images/avatar.png</logo>
+    <icon>https://vpssp.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, VPSSP</rights>
+    <entry>
+        <title type="html"><![CDATA[2024/3/11 21:17]]></title>
+        <id>https://vpssp.com/post/2024311/</id>
+        <link href="https://vpssp.com/post/2024311/">
+        </link>
+        <updated>2024-03-11T13:13:54.000Z</updated>
+    </entry>
+</feed>
